@@ -1,0 +1,12 @@
+c:\users\nichomaropeng\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Linq.exe.config
+c:\users\nichomaropeng\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Linq.exe
+c:\users\nichomaropeng\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Linq.pdb
+c:\users\nichomaropeng\documents\visual studio 2015\Projects\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+c:\users\nichomaropeng\documents\visual studio 2015\Projects\Linq\Linq\obj\Debug\Linq.exe
+c:\users\nichomaropeng\documents\visual studio 2015\Projects\Linq\Linq\obj\Debug\Linq.pdb
+C:\Users\NichoMaropeng\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Dapper.dll
+C:\Users\NichoMaropeng\documents\visual studio 2015\Projects\Linq\Linq\bin\Debug\Dapper.xml
+E:\Nicholus\Visual Studio 2015\Projects\Linq\Linq\bin\Debug\Linq.exe.config
+E:\Nicholus\Visual Studio 2015\Projects\Linq\Linq\obj\Debug\Linq.exe
+E:\Nicholus\Visual Studio 2015\Projects\Linq\Linq\obj\Debug\Linq.pdb
+E:\Nicholus\Visual Studio 2015\Projects\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
